@@ -1,0 +1,396 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="hcea40af5g212fgac43g6a19g6f33e782aca1" version="1">The most common face in Faerûn, humans are known for their tenacity, creativity, and endless capacity for growth.</content>
+  <content contentuid="h034ce391ga085g677egbce2g3d92f5c1a1b0" version="1">Human</content>
+  <content contentuid="h7d4e8ce8g3358g88aag21f3g9cc16cf7ced7" version="1">With ethereal countenances and long lifespans, elves are at home with nature's power, flourishing in light and dark alike.</content>
+  <content contentuid="hc54b0d1eg4451gae70g3c06gd0a0edc5aefa" version="1">Elf</content>
+  <content contentuid="h0449805eg615cg982ag6799g93f982b74ac6" version="1">High Elf</content>
+  <content contentuid="h267ce149g9516g9744g549egf18111413cd1" version="1">Heirs of the mystical Feywild, high elves value magic in all its forms, and even those who do not study spellcraft can manipulate the Weave.</content>
+  <content contentuid="hab69a0eeg2739ge004g3926gd75319a26b98" version="1">These elves spend their reclusive lives in Faerûn's forests. Decades of training in archery and camouflage are enhanced by an otherworldly swiftness.</content>
+  <content contentuid="h4a7fa5f9gc768g93b5gf5c0g34a77aae61b0" version="1">Wood Elf</content>
+  <content contentuid="h0f2668f0g5004g556bgce71g45b59553e225" version="1">Driven to the Underdark, most drow have adopted a ruthless pragmatism. While the Lolth-sworn delight in the goddess' evil tenets, the Seldarine reject Her attempt to overthrow the leader of the elven pantheon.</content>
+  <content contentuid="h37185816gbe42g7472g0fe9gafc23bbfee02" version="1">Drow</content>
+  <content contentuid="ha83925bcg18e6ga2ecgb908gb519699c9931" version="1">Lolth-Sworn Drow</content>
+  <content contentuid="h42cce96bg3006g5c00g84c5gedb897b37af9" version="1">Raised by Lolth's cult in the city of Menzoberranzan, these drow embody the virtues of their corrupt and merciless goddess. Lolth marks Her followers with bright red eyes so those in the Underdark will learn to fear them on sight.</content>
+  <content contentuid="hdcab394dgf577gdf9fg3754ge47de29ba419" version="1">Seldarine Drow</content>
+  <content contentuid="hc7a1b278g51c4g45dagf877g014e2591753d" version="1">Seldarine drow can be found seeking allies from all over Faerûn, aiming to settle their conflict with Lolth - and each other - by any means necessary.</content>
+  <content contentuid="h906eaa97gce04gb5d0gf0e6gaea97924508b" version="1">As durable and unyielding as their homes of stone, dwarves are some of the finest warriors, miners, and smiths of Faerûn.</content>
+  <content contentuid="h184682e8gbc3dg7e66g56a5g65a1a69283ed" version="1">Dwarf</content>
+  <content contentuid="h8bb18d68g1780g43dagae45g419800a2da45" version="1">These dwarves are known for their confidence and keen intuition. The culture of their Deep Kingdom values family, ritual, and fine craftsmanship.</content>
+  <content contentuid="he296b13cg02b7gef0agec50g4e79fcc87edf" version="1">Gold Dwarf</content>
+  <content contentuid="h10d03508g1213g7b00g759egc8b8852478af" version="1">Shield Dwarf</content>
+  <content contentuid="hc87f876cg4cecgf30bg49ddgff97c03dd244" version="1">Great losses in ancient wars against goblins and orcs have led these dwarves to adopt a cynical mindset, but they will endure anything to restore their ancestral homelands.</content>
+  <content contentuid="hfd73a8deg61ccgdc3egb04ag786b12685c63" version="1">Once enslaved by the eldritch mind flayers, duergar adapted to freedom with harsh practicality. Their cold demeanours and gift of stealth are well-known throughout the Underdark.</content>
+  <content contentuid="hd45d69cfgcb68g40e4g613dg105a058d390a" version="1">Duergar</content>
+  <content contentuid="hb0834288g3ef4g2be3g5ec0g4d9c4393e372" version="1">Curious, ambitious, and versatile, half-elves are welcome everywhere, but struggle without a community to call their own.</content>
+  <content contentuid="h34222850gcd1dg2162g3461g1eefc6bfd5eb" version="1">Half-Elf</content>
+  <content contentuid="h50e9cef2g0710g150dg4dd4g98346bc092b4" version="1">High Half-Elf</content>
+  <content contentuid="ha13c9c4fg91b1g5777g4dc4g45119aa5380e" version="1">A touch of the Feywild remains in half-elves with this bloodline, and even those untrained in magic possess a hint of wild power.</content>
+  <content contentuid="h87efe823g81e9g5cf7g7de2gad7201073266" version="1">Wood Half-Elf</content>
+  <content contentuid="ha3e2da76g0765gc375g4ae1ge6e1b1659188" version="1">Like their wood elf parent, these half-elves have a quickened stride and an eye for stealth. Yet many break away from isolation in Faerûn's forests to explore the rest of the Realms.</content>
+  <content contentuid="h6312401eg15f2g3c4ag3c2cg9436fd0dadc0" version="1">Most half-drow result from liaisons between Seldarine drow and surfacers. While half-drow inherited a few magical gifts, they aren't usually raised in the Underdark.</content>
+  <content contentuid="h25d01495ge27fgce56g8e9eg7638c0ae8b56" version="1">Drow Half-Elf</content>
+  <content contentuid="hc1009e79g6eb0gc14fg40bdg7348565048b5" version="1">Small, clever, and energetic, gnomes use their long lives to explore Faerûn's brightest corners and darkest depths.</content>
+  <content contentuid="hf67cded6g269dgcb06g3f6cg2c940f242b17" version="1">Gnome</content>
+  <content contentuid="he1863ba9g87a7g0b25gd340g73393047db3a" version="1">Rock Gnome</content>
+  <content contentuid="h8a6c2a70g3eb2gb31egcfcegb70b65a6a9df" version="1">The most commonly seen gnomes on Faerûn's surface, rock gnomes are named as such for their hardiness and affinity for metal.</content>
+  <content contentuid="h0a90114bgd005gb57bga147ga06a4bdc1258" version="1">More guarded than their surface cousins, deep gnomes survive in the Underdark with darkvision and skilful stealth.</content>
+  <content contentuid="hc2a08b2fg6dacgfc69g1114ge960d75a360a" version="1">Deep Gnome</content>
+  <content contentuid="hd6f61534g607cg9a6cg4503ge7523d83695e" version="1">Forest Gnome</content>
+  <content contentuid="h3109512eg7ba3gd8degfb22ge8dd8933d972" version="1">Even smaller than their cousins and twice as reclusive, forest gnomes are a rare sight in Faerûn. They master magic and craftsmanship in their distant, idyllic groves.</content>
+  <content contentuid="hb6154f0cgb7dag66b7gc9ddgd3ea483c15c0" version="1">Small yet capable, halflings prefer the comforts of home and hearth - but their natural luck and dexterity makes them fine adventurers.</content>
+  <content contentuid="h3ad5956fg14f4g362fg68e8g3e3881071ded" version="1">Halfling</content>
+  <content contentuid="h879362a4g6710g13c0g3e7cg49d20642b74d" version="1">Stealthy but social, these halflings travel all over Faerûn to make names for themselves.</content>
+  <content contentuid="h9696f8e2g4f56g425cg1cfegbd7c1a2fa239" version="1">Lightfoot Halfling</content>
+  <content contentuid="h5848622bgb5eeg5d99ge84fgb1c4af007b28" version="1">Strongheart Halfling</content>
+  <content contentuid="h1ce01031gaaf0g774cg468dgdd58b94d6850" version="1">Legend has it that dwarven blood gave stronghearts their hardiness. Resistant to poison and wellsprings of endurance, these halflings easily hold their own.</content>
+  <content contentuid="hdbc1590cg1b6cgcf0ag6a86g4fe9a582d2b9" version="1">Descended from devils of the Nine Hells, tieflings face constant suspicion in Faerûn. Thankfully, their arcane abilities make them natural survivors.</content>
+  <content contentuid="hb533b585ga5efgc049ga246g94937b37912c" version="1">Tiefling</content>
+  <content contentuid="h58ced249gd10fg510bgf3c6ge84d8f50a6a8" version="1">Asmodeus Tiefling</content>
+  <content contentuid="h5ddc0a8ag623ag1578g1ff9gc9adcfdf25c0" version="1">Bound to Nessus, the deepest layer of the Hells, these tieflings inherited the ability to wield fire and darkness from the archdevil Asmodeus' infernal bloodline.</content>
+  <content contentuid="hf3e896cegd793gaffbg165dgcf0162b2f873" version="1">Descended from the archdevil Mephistopheles, these tieflings are gifted with a particular affinity for arcane magic.</content>
+  <content contentuid="h9c7f22fcg9bb5g3ca6g9cecg8af544d132f8" version="1">Mephistopheles Tiefling</content>
+  <content contentuid="h927e6805g69eag6ca6gf95egefe795bfa3a1" version="1">Zariel Tiefling</content>
+  <content contentuid="h7b79852bg70d9g4414g7a06g43870cabcbfc" version="1">Tieflings from Zariel's bloodline are empowered with martial strength, and can channel searing flame to punish their enemies.</content>
+  <content contentuid="h9293e4efg6c75g1441gcbb2gdee28d44ab83" version="1">With a ruthlessness borne from mind flayer enslavement, githyanki ride the Astral Sea atop red dragons, bringing their silver swords and psionic might to bear against any trace of the illithid menace. </content>
+  <content contentuid="h5d61154eg57a5g2468gaa70g2f9f027bbb86" version="1">Githyanki</content>
+  <content contentuid="hd6f07c87g4f62g7809g4d68g4d55c85a983a" version="1">Dragonborn</content>
+  <content contentuid="hb3f90984g40b1gd0f0g31b3gc58193426872" version="1">A proud race that values clan and skills above all else. Once enslaved by dragons, they strive to be self-sufficient, not wanting to be beholden to anyone, not even the gods.</content>
+  <content contentuid="h2b714ae6g3d93g8d82g6b76g284fed896855" version="1">Black Dragonborn</content>
+  <content contentuid="h784c6b7fga9e8g4aceg3fbcg6b72764f6e57" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the charcoal colouration and fizzling, acrid breath of black dragons. </content>
+  <content contentuid="h0431646bgc178g5bd7g479cg69b36d501324" version="1">Blue Dragonborn</content>
+  <content contentuid="hd9345e74g8b5eg8c92g709dg5455b2708f82" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the deep sapphire scales and charged, crackling breath of blue dragons.</content>
+  <content contentuid="ha118edb3geeefgf935g3140g391535e277f8" version="1">Brass Dragonborn</content>
+  <content contentuid="he1bce81eg9c2cgfbc2g1c9dg59c251e34d91" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the burnished ochre hue and flickering, fiery breath of brass dragons. </content>
+  <content contentuid="h5b416930g9221g6cb5gd827gf3297f54ce5b" version="1">Bronze Dragonborn</content>
+  <content contentuid="hfe9e24a2g586eg200bgd74eg9acbb62c26fa" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the shining sepia scales and sparking breath of bronze dragons.</content>
+  <content contentuid="h81b2cd2cgfb64gaa3eg44cdgde262b264ee8" version="1">Copper Dragonborn</content>
+  <content contentuid="h1a202aeag9a2dg01a5ge8f2gd3de45dc68a4" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the pink-gold colouration and corrosive breath of copper dragons.</content>
+  <content contentuid="h6a7eb038g72f6gb264gd905g1fc721bdf3b9" version="1">Gold Dragonborn</content>
+  <content contentuid="h42abee27gfce9g7934gce7eg558713caeef3" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the resplendent shine and roiling, blazing breath of gold dragons.</content>
+  <content contentuid="h71bcd45eg3b2agc76bg2baeg078153f5ad20" version="1">Green Dragonborn</content>
+  <content contentuid="hf207d485gbee0ge092gd813g3fb9700e2537" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the brilliant emerald aspect and stinking, putrid breath of green dragons.</content>
+  <content contentuid="h8aef5b6age601g92d8g32bcgc7f6b5511205" version="1">Red Dragonborn</content>
+  <content contentuid="ha8720fc3g42d7gac6dg1052gafef762482c8" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the bright scarlet likeness and roiling, burning breath of red dragons.</content>
+  <content contentuid="h2b2ad2d8gc416g65cag4243g834f36b62565" version="1">Silver Dragonborn</content>
+  <content contentuid="hbbfdbc5ag085fg04aag2713gaa1335438ec8" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the glinting shine and scorching cold breath of silver dragons.</content>
+  <content contentuid="h2b239f40g4ad5g57c3gf444g27b9602fbe23" version="1">White Dragonborn</content>
+  <content contentuid="hfaef75c1gb359g4870g6517g58de8164e1b3" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the snowy aspect and frosty breath of white dragons.</content>
+  <content contentuid="h4d9b90abga511g114dg836fg12e892658fca" version="1">Half-Orc</content>
+  <content contentuid="hf7062c43g9b97g0e29g0a8cg8b6777224f68" version="1">Creatures of intense emotion, half-orcs are more inclined to act than contemplate - whether the rage burning their bodies compels them to fight, or the love filling their hearts inspires acts of incredible kindness.</content>
+  <content contentuid="hbc2c397ag60dag1bc3g9d9cg3b1878fce546" version="1">Barbarian</content>
+  <content contentuid="h5b8afd20g6a23g5dcagd7eag00fd3d346aea" version="1">The strong embrace the wild that hides inside - keen instincts, primal physicality, and most of all, an unbridled, unquenchable rage.</content>
+  <content contentuid="h5a865827g9f4fg165bg9bc7gf206cac6cdaf" version="1">Berserker</content>
+  <content contentuid="hcbb5f8eag0630g6af7ged71g05d61f12a467" version="1">Violence is both a means and an end. You follow a path of untrammelled fury, slick with blood, as you thrill in the chaos of battle, heedless of your own well-being.</content>
+  <content contentuid="h13e19f74g4656g14a6gad4agf0b9e005af8b" version="1">Wildheart</content>
+  <content contentuid="hbcf5e2e6g5ec3g49a6gfa3agfa77cec77eec" version="1">Your attunement with nature and its beasts inspires your rage, empowering you with supernatural might.</content>
+  <content contentuid="h7c207a61ge406ga797gf3fdg53afa9a60d3d" version="1">Bard</content>
+  <content contentuid="hf14a6860g06a3gabf0g227dg28d89cd24996" version="1">Bards know music is more than idle fancy - it is power. Through study and adventure, these travelling troubadours master song, speech, and the magic within.</content>
+  <content contentuid="h14552b42gbfd3gaf48g2ad7g49c16c5f753e" version="1">College of Lore</content>
+  <content contentuid="h45128bf7g6f92g3bf8gb5abgb4816ee86ffd" version="1">You pursue beauty and truth, collecting knowledge from scholarly tomes to peasants' tales, and use your gifts to hold both audiences and enemies spellbound.</content>
+  <content contentuid="h00e0f628gb6b7g3193gb2f0ge0ee98be1411" version="1">College of Valour</content>
+  <content contentuid="h69cc1434ge953gedd9gad77g81c5bd12eff8" version="1">You wander the land to witness and relate the deeds of the mighty, keeping alive the memory of heroes of the past and inspiring heroes of the future.</content>
+  <content contentuid="ha430fecage5e0g66b6g4463g637674a25d46" version="1">Cleric</content>
+  <content contentuid="h4e50bf46g63c6gde64gc3f2g730a4c977a97" version="1">Clerics are representatives of the gods they worship, wielding potent divine magic for good or ill.</content>
+  <content contentuid="h9ae66b38gb7f1g8799g1f66g08f83c7b26df" version="1">Select Domain</content>
+  <content contentuid="hf2886689gf9cfgcd49gb32egd35e49fb0dec" version="1">Life Domain</content>
+  <content contentuid="ha225e2b0gf2fag5659g0dd7g40fdb5edac37" version="1">Tasked with the holy edict of preserving the body, mind, and soul, your god grants you a plethora of healing magics. </content>
+  <content contentuid="hed66130fgc4cbg53c2g46fegd58da894b6a9" version="1">Life</content>
+  <content contentuid="h84103cc8g276agd691gd84egab11767f3884" version="1">Light Domain</content>
+  <content contentuid="h592e9829gde5cg8a3dg61a5g5881ec0545be" version="1">Gods of primordial flame bathe you in resplendent light, providing magics to dispel darkness and immolate enemies.</content>
+  <content contentuid="h6d7b7b91gd595ga180g9a60g031fbebbb3d7" version="1">Light</content>
+  <content contentuid="h93eda922g3218g402bg2fefg0f82ce35c8e0" version="1">Trickery Domain</content>
+  <content contentuid="h07200c0cga671g7cb4g03f6g8ffaed9204d3" version="1">You wield the unorthodox divine tools of deceit and illusion in worship of your chosen deity.</content>
+  <content contentuid="h4b32a8c8g3d6cgb352g458fgdbfd2ae4dd13" version="1">Trickery</content>
+  <content contentuid="hc7bf3c63g8b39ga095ga712gc99899b1f1c0" version="1">Druid</content>
+  <content contentuid="h77526fb6g829ag2340g6beeg3cfac85f9d97" version="1">Druids channel the elemental forces of nature and share a deep kinship with animals. Mastery of Wild Shape allows them to transform into beasts from all over the Realms.</content>
+  <content contentuid="hcc2a42cega5cagd7acgd49fgea9a21a6400a" version="1">Circle of the Land</content>
+  <content contentuid="hd9988c31g55f4ga2fbgf2cag72c77c4f585f" version="1">You channel the natural arcana flowing through the earth and creatures atop it to cast powerful druidic magic.</content>
+  <content contentuid="hecdc6fc0g7547gb7c7gc31fg50630d00271c" version="1">Circle of the Moon</content>
+  <content contentuid="h5fcd2235g9632gb77fg3867g69753250448f" version="1">Your form is mutable as the mercurial moon, letting you shift your form into massive beasts and even primal elementals.</content>
+  <content contentuid="he0b17df3g956fg81acg1d7agf56b1cd1845d" version="1">Fighter</content>
+  <content contentuid="h5490bebbg39ebgbfb0g92b3gb35840e31cd9" version="1">Fighters have mastered the art of combat, wielding weapons with unmatched skill and wearing armour like a second skin.</content>
+  <content contentuid="h38e15d07g1c61g629eg0111g4c33d16671d9" version="1">Battle Master</content>
+  <content contentuid="h8a825505g96e4g3a43g6de9g657d24021452" version="1">As a paragon of tactical superiority, you employ a wide array of combat manoeuvres to dominate every fight.</content>
+  <content contentuid="h8966724fg60f9g06cdg073dgd6aff1aa780b" version="1">Eldritch Knight</content>
+  <content contentuid="hfdd04c62g6850g432ag548cg057b6c878bc5" version="1">You are a warrior of spell and sword, weaving incantations that supplement your extensive martial expertise.</content>
+  <content contentuid="h88f41067gdc9dgfa9fg9c47gf8c8465409ed" version="1">Monk</content>
+  <content contentuid="hdb909ce6g5079gb776g002dg08530ed827c4" version="1">Some reach enlightenment by languid meditation - others do so in the heat of battle. Monks manipulate ki to empower their own strikes and debilitate their foes.</content>
+  <content contentuid="hadc15f67g962fg901bg49b6g8a96a62a7f59" version="1">Paladin</content>
+  <content contentuid="h0b455acag0527g4881gde09g0605eee753ab" version="1">A promise made so deeply that it becomes divine in itself flows through a paladin, burning bright enough to inspire allies and smite foes.</content>
+  <content contentuid="hd15851bcgb826g51cagfc24g0883ad7b1560" version="1">Oath of the Ancients</content>
+  <content contentuid="h758fc7d0g6391g1a01g65a9ge7c0a96d1e95" version="1">You fight on the side of light in the cosmic struggle against darkness to preserve the sanctity of life and the beauty of nature.</content>
+  <content contentuid="hdbff9939g6200g4716gad3egb58be9ced537" version="1">Oath of Devotion</content>
+  <content contentuid="h2c6b3383g4b0fg9d5ag1117g984c5e1959d8" version="1">Following the ideal of the knight in shining armour, you act with honour and virtue to protect the weak and pursue the greater good.</content>
+  <content contentuid="h80a37c01ge8afgd553gc485g9a7c5c81ba26" version="1">Oathbreaker</content>
+  <content contentuid="h3a5939acg5cf8g50c0gb65dg40d60083bacd" version="1">You have broken your sacred Oath in pursuit of power and ambition. Only darkness remains to fuel you now.</content>
+  <content contentuid="h5efabe2bgf0eage194g2e2ag9fa2088f0bc3" version="1">Ranger</content>
+  <content contentuid="h043a0389g551agb292g2ae5g6fd33ca9954b" version="1">Rangers are unrivalled scouts and trackers, honing a deep connection with nature in order to hunt their favoured prey.</content>
+  <content contentuid="h38a98ab2g1836g70feg3ab3gdefcd9bcb7ef" version="1">Beast Master</content>
+  <content contentuid="hb4fd03ceg00bfgf34fg72edge5724f5fe03e" version="1">You foster an intelligent bond with a powerful beast that can aid you in and out of combat.</content>
+  <content contentuid="hdf9ebeb8gddf3g9677g4675g9077db48932b" version="1">Hunter</content>
+  <content contentuid="h563c33bfgab81g74a3g18a2ge4d91d50ace5" version="1">You seek the most dangerous prey in Faerûn, from ancient dragons to massive hordes of undead, and excel at slaying them all.</content>
+  <content contentuid="h0c82fb32g8f51g06c7g643ag68ee04fbc7e7" version="1">Rogue</content>
+  <content contentuid="he5b1a11egedd9g65ccg4d74g71ed82a3da30" version="1">With stealth, skill, and uncanny reflexes, rogues' versatility lets them get the upper hand in almost any situation.</content>
+  <content contentuid="hbb8dd31ega2b9g4dc4g647dg56a1ded143e2" version="1">Thief</content>
+  <content contentuid="h00d2a92fg4772gc800g786bgee00d9fd7b6f" version="1">Your quick hands and mastery of the larcenous arts make stealing second nature - be it from a third floor window or a forgotten ruin. </content>
+  <content contentuid="hc4d88bb1gd850gfa9eg853bg257ea7ac4fe5" version="1">Arcane Trickster</content>
+  <content contentuid="h6c8dad4egc7eag1038g440ag7d0b36b132ad" version="1">As quick with a spell as you are with a lockpick, your illusions and enchantments keep opponents on the back foot. </content>
+  <content contentuid="haf893a74g68d7gabdagbe3fgac5860ce9924" version="1">Sorcerer</content>
+  <content contentuid="h61dc1d7bgdf62g2640ga59cg9bfc35e0a564" version="1">Sorcerers are natural spellcasters, drawing on inherent magic from a gift or bloodline.</content>
+  <content contentuid="he340dfefgf2efgc877g4d59g2930e2b68d9e" version="1">Draconic Bloodline</content>
+  <content contentuid="hd2dedb4ag1146geabdg4b43gee4622ca803a" version="1">Your veins carry draconic magic, the result of a powerful dragon ancestor.</content>
+  <content contentuid="hc6ce4f59g76d8gf625g28eegfea913317070" version="1">Wild Magic</content>
+  <content contentuid="hb18bce3fgc562g1da5gace7g6c4f60093d6e" version="1">Your powers come from ancient forces of chaos. They churn within you - waiting to burst free at any time.</content>
+  <content contentuid="hcabb4253g4366ge969g9e26g518e1448ea75" version="1">Warlock</content>
+  <content contentuid="hf2893e5ag86ebg2accg2fc9g8f62e2eff736" version="1">Bound by a pact to an all-powerful patron, warlocks trade their loyalty for supernatural abilities and unique magic.</content>
+  <content contentuid="h89a7a810g6d1cg87a2g624cgc26b374b5838" version="1">The Fiend</content>
+  <content contentuid="hd54163c3ga490g0389g4e65g30eb65cd2c11" version="1">You have pledged your soul to the Hells or Abyss in return for a deadly arsenal of fiendish arcana.</content>
+  <content contentuid="hf490c119g5f08g8d50g4b47ga21bdd08fa39" version="1">The Great Old One</content>
+  <content contentuid="haf116482g3541gd668g7a41g4d54f0300e70" version="1">You pledged something unthinkable to an unspeakably ancient entity - which in return furnished you with powers of cerebral entropy and control.</content>
+  <content contentuid="hdc3e0322g75e0gf433g6668g020c17a5668c" version="1">Wizard</content>
+  <content contentuid="hde1d6d3cgafa0gdc1cg55ebg5f97bf948a4a" version="1">Wizards master the arcane by specialising in individual schools of magic, combining ancient spells with modern research.</content>
+  <content contentuid="hfa3439adg14bdg1c4dg294bg78837f9c70f1" version="1">Abjuration</content>
+  <content contentuid="h2ef07352gea60g2727gaa2fga3379a60bbee" version="1">You twist and harden the Weave into arcane wards to protect yourself and others. Learning Abjuration spells from scrolls only costs you 25g per spell level, not 50.</content>
+  <content contentuid="h4f67677bgb987g1fbbgcb4cg765bb54ed3b6" version="1">Evocation</content>
+  <content contentuid="h28d4e751gf863g006agbc9ag0683cb456e01" version="1">You are known as an evoker - striding unharmed through the unfettered chaos you call. Learning Evocation spells from scrolls only costs you 25g per spell level, not 50.</content>
+  <content contentuid="h2f09edfcgd245gf4bbg9f51g0a60a625191f" version="1">Wild Magic</content>
+  <content contentuid="haea6566fg62e7g238eg7c83g5e3c9be02610" version="1">The wild influence of magic has transformed you, suffusing you with an arcane power that churns within you, waiting to be released.</content>
+  <content contentuid="hfa44455fg61f0g4f12g3f89g9f000f1ba7d6" version="1">College of Swords</content>
+  <content contentuid="h5fb13414gdd89g3004g9091ge33e92f253d2" version="1">A highly trained and skilled warrior, you use your prowess with words and weapons to fight and entertain in equal measure.</content>
+  <content contentuid="h8f9416feg05fdg487dg7082g2b4715388755" version="1">Knowledge Domain</content>
+  <content contentuid="h59f447a4g37f4gc715gc9b4g6465d94ac6a1" version="1">Knowledge</content>
+  <content contentuid="h88100eb1g10a6g2af9gfa0dgf757d9d94b88" version="1">Adaptable and adroit in all manner of languages and skills, your mind is an intellectual cup brimming with exquisite knowing.</content>
+  <content contentuid="h476d277bg0768gb1a4g066ag5d1ed4217853" version="1">Nature Domain</content>
+  <content contentuid="h44728c24g56a6g4497ge6cfgc571cc78dcab" version="1">Nature</content>
+  <content contentuid="hbec8cf1dgc67cg77c6g60fdgbf60c1f587d6" version="1">You embody the vast viridian power of the natural world, an avatar of the subtle divinity of fruitfall, avian migration, woodland silence, and the landslide's roaring fury. </content>
+  <content contentuid="hbe4477dcg8deag1a45g3ba7g9de1fbbf7608" version="1">Tempest Domain</content>
+  <content contentuid="h6d696d8eg5b09gd8c1gafccg89d260ae23cb" version="1">Tempest</content>
+  <content contentuid="h3d37d2b1gb429g3541gfc24g8b4bdbdd922a" version="1">Your faith has made you the very thunder that quakes the black firmament, the lightning coursing through the veins of a terrible storm. </content>
+  <content contentuid="hdf6c35a5gfe78gd6f3g0460g3773e979f3f8" version="1">War Domain</content>
+  <content contentuid="h211adb74gac24ge509gf8a3ge363e3310b3d" version="1">War</content>
+  <content contentuid="hf18dd42bg5842g3607g5ab9g9ddb55706bd5" version="1">Fortified by holy zeal, you brandish an arsenal of sacramental savagery to use against those you deem unrighteous. </content>
+  <content contentuid="hac87e376g8f2dg1c9fg0f44gdff640ac61e3" version="1">Circle of the Spores</content>
+  <content contentuid="hd862776dgbf92geb3ag75ecg92e4fde9c7f8" version="1">Viewing death, necrosis, fungal growth, and sporulation as just another part of life, you can manipulate such spores to augment yourself and harm your foes.</content>
+  <content contentuid="h749e0df1gb4a3g7677g84e2g2a0c4c5fc6bb" version="1">Champion</content>
+  <content contentuid="h8f7ab909gcb29g4715g2221g050a0ff6504a" version="1">You approach the complex problems posed by combat with one distinctly effective solution - you hit those problems, really quite hard.</content>
+  <content contentuid="hc0385b7cgf23cg2115g0858g94c37ae119e0" version="1">Way of the Four Elements</content>
+  <content contentuid="h190a5ee9g1029gf0deg1546g24d36e8c3a68" version="1">You focus your ki to bend the elements to your will, using them as an extension of your own body.</content>
+  <content contentuid="hc016040dg30f0g76fbg6696g5e60de5fd029" version="1">Way of the Open Hand</content>
+  <content contentuid="hfe33dcd0g4211g7390g5effg09e202e8f0d4" version="1">You specialise in unarmed combat, using your hands and your control of ki to heal or inflict grievous hurt.</content>
+  <content contentuid="h9182cd09gaef8g1961gbe1dg15a597ff6f2a" version="1">Way of Shadow</content>
+  <content contentuid="hb1bacc14g7047g57b3g252bgd2b13f35b998" version="1">You value the arts of stealth and subterfuge, bending the shadows to your will to strike without warning.</content>
+  <content contentuid="hf21e9f98g80a9g525ag7e1dgb4d55bbdbfc2" version="1">Gloom Stalker</content>
+  <content contentuid="h333972f2g2decg3a31g2432gadca4ab5f773" version="1">Emerging like a horrible gift from the envelope of darkness and shadow, you ambush and put down your foes before they can even scream. </content>
+  <content contentuid="hc537c879ge2c7gacc9gcc08gf7b1d53ca1bc" version="1">Assassin</content>
+  <content contentuid="h2a9d31ffgd492g7390gf257g148797161a12" version="1">You prefer to deal sublime punishment to a single foe at a time - not in a duel, mind, because a duel implies chivalry, and you're too busy getting the job done for honour.</content>
+  <content contentuid="hbeb120bcge735g7ba7gd3b4g337e232af794" version="1">Storm Sorcery</content>
+  <content contentuid="h740dc91cg3863g1bf6g085cg0029c997af3f" version="1">Whether crackling with the energy of ancient deluges or pierced by gales and hurricanes, your lineage is a strange tapestry scrawled by a tempest. </content>
+  <content contentuid="h832edd66g7f05g2470gcfcfgdd680e429c3b" version="1">Conjuration</content>
+  <content contentuid="h42b7fc99g0469gdc84g7fc9g3db1b0a47952" version="1">Compelled by shape and motion, your favoured arcane style involves summoning creatures and objects, as well as displacing them in space. Learning Conjuration spells from scrolls only costs you 25g per spell level, not 50. </content>
+  <content contentuid="h9eb6f1b3g4906gfff2g4650gbe39087c8955" version="1">Divination</content>
+  <content contentuid="h9b2b5038g1274g7862gd969g573cea0430e1" version="1">You peer through time itself and can sculpt the future, like temporal clay, into a more favourable form. Learning Divination spells from scrolls only costs you 25g per spell level, not 50. </content>
+  <content contentuid="hc8269499g0883gf367gc371g4afa6afcb628" version="1">Enchantment</content>
+  <content contentuid="hb1e35b44ga3e0g93d1ga44egb2ff940edaf2" version="1">Your magic influences, beguiles, and bends the will and conviction of those around you. Learning Enchantment spells from scrolls only costs you 25g per spell level, not 50. </content>
+  <content contentuid="h8a5d7918g5684g621dg9713g408b1a3141ca" version="1">Necromancy</content>
+  <content contentuid="h7532f081gaf71gb3ddg62caga7824e7bbe42" version="1">You walk through the valley of the shadow of death, and make lots of friends there. Learning Necromancy spells from scrolls only costs you 25g per spell level, not 50. </content>
+  <content contentuid="haf11ad03ga8f5g7ecfgbd12g68e8ab1ce327" version="1">Illusion</content>
+  <content contentuid="h32834173g107fg4767g83f8g15dcf325a3a5" version="1">You specialise in unravelling and restitching the fabric of reality to fool the unwary, the gullible, and the monstrous. Learning Illusion spells from scrolls only costs you 25g per spell level, not 50. </content>
+  <content contentuid="hc035836eg4a07gaacdgf19bg67bb076db700" version="1">Transmutation</content>
+  <content contentuid="h9c932965g32e9gd6f7gd757g80d510c6b835" version="1">Your innate fascination with the structure of things has granted you an incredible power over crude matter and its manipulation. Learning Transmutation spells from scrolls only costs you 25g per spell level, not 50. </content>
+  <content contentuid="hd757e9cag8323g5c18ga49ag881a2eb1e266" version="1">The Archfey</content>
+  <content contentuid="h2a409114gf2b0g6f89gc4a1ga0d3c06a2bb8" version="1">Graced by a lady or lord of the fey, you are imbued with all the sumptuous and scary qualities of your patron's extraordinary realm. </content>
+  <content contentuid="hcee44480g4128ge3cbga00bg8616b51d8c64" version="1">Oath of Vengeance</content>
+  <content contentuid="h0385b43bgb580gb6d4g4ef6g9463ce4c2fb3" version="1">You have set aside even your own purity to right wrongs and deliver justice to those who have committed the most grievous sins.</content>
+  <content contentuid="h29b0e356g180bg6625g12a4geca60e653578" version="1">Giant</content>
+  <content contentuid="hbd4d7000g8b54g82e8g73dcg7f4246a6605c" version="1">You walk the path of giants, invoking their elemental might and size by drawing strength from the same primal forces as them.</content>
+  <content contentuid="h8eb656c7ga03cgd9a8g0a8cg4c79a597e3eb" version="1">College of Glamour</content>
+  <content contentuid="hbce85e92gba3aga05egbb74ga3e4c852e10f" version="1">You mastered your craft under the tutelage of fey creatures, whose captivating magic swirls within you, ready to be released.</content>
+  <content contentuid="h4c65ddeaga8beg1fc4g941cgfbe263008e1d" version="1">Death Domain</content>
+  <content contentuid="h79a3d0b8g8dd1g3ee7gc570ga4f36b6ffdd3" version="1">You nourish your faith on the forces that create the dead and give rise to the undead.</content>
+  <content contentuid="h2fd65f7bg1cd8g0f58g473dgca172bdc44ee" version="1">Death</content>
+  <content contentuid="h2754cde4ga74dg7d4cg4e41g6a5057c32fb2" version="1">Circle of the Stars</content>
+  <content contentuid="h0d79e66eg5fd0g2494g0227gdd8a66673718" version="1">You are guided by the infinite mysteries of the cosmos. It is through your understanding of the stars that your druidic magic gains its potency.</content>
+  <content contentuid="h653f62b9g08c4g294cgc115g645d117ab3ad" version="1">Arcane Archer</content>
+  <content contentuid="h7f793d7dga9f3gbe41gd2bbg63876c30a35e" version="1">You are capable of weaving magic into your attacks, giving your archery a supernatural quality - and your foes something to fear.</content>
+  <content contentuid="he7b5c89cg2ae3g1736g1ebag4fc2d47b2224" version="1">Way of the Drunken Master</content>
+  <content contentuid="hc326e030ge9f5g13a4g4635gb188c1909407" version="1">With the unpredictable lurches of a tippler, you hiccup your way through battle, frustrating foes with carefully executed movements concealed beneath a façade of incompetence.</content>
+  <content contentuid="h825554d3gdbc6gecf1g6ef1gd3d0095c4479" version="1">Oath of the Crown</content>
+  <content contentuid="h7b9b4496g5080g1919gc92cg3d9248b5d762" version="1">You have sworn yourself to the ideals of civilisation, serving the laws that hold society together and preserving the order they command.</content>
+  <content contentuid="he8d3a2f0gfabbg2a5eg4d07gc2e3ff0fc265" version="1">Swarmkeeper</content>
+  <content contentuid="hbcba11fdg4011gb313g49dfg0b53ec2c90a9" version="1">You have forged a deep connection with your natural surroundings and formed a magical bond with a swarm of nature spirits. This swarm serves as a helpful companion and a potent force in battle.</content>
+  <content contentuid="h7f005414ga48dgbfcagf4b8g3d55cfecc6e0" version="1">Swashbuckler</content>
+  <content contentuid="hc69fcd71g87f1gce9fg44d3ga1ea597eeb50" version="1">You live and breathe the art of the blade, excelling in single combat thanks to your quick feet and wits.</content>
+  <content contentuid="h9e1ec49bgc62cg7702gc7acge73348b6fd78" version="1">Shadow Magic</content>
+  <content contentuid="h170b88d6g5e4dg8814gbf47g4fd09c9da8e6" version="1">You siphon your powers from the Shadowfell itself, the light in your soul snuffed out by an unsettling darkness.</content>
+  <content contentuid="h1d4dfdb3gf701gba9ag1bf9g6640650e7b56" version="1">The Hexblade</content>
+  <content contentuid="hf1e5da5egfff8g5175g32fag692253a055f9" version="1">You have made your pact with a mysterious entity from the Shadowfell - a force that manifests in sentient magic weapons carved from the stuff of shadow.</content>
+  <content contentuid="hc526b0e8g6986g2e07g29e5g6f17f67727ea" version="1">Bladesinging</content>
+  <content contentuid="h147ab946g113dg34bbg6a31g80dbc4164aa9" version="1">A master of wizardry and swordplay, you combine the elegant manoeuvres of a warrior with the devastating magics of a mage.</content>
+  <content contentuid="h61966ed9g5b7cgd980g18d7gbfb0c39256c3" version="1">The Lady of Silver presides over the moon, stars, and navigation. Her power over the heavens is constantly challenged by her sister Shar, who seeks to plunge the world into eternal shadow.</content>
+  <content contentuid="h39748dcbg7336gda42gc0d6gbc37492782a8" version="1">Selûne</content>
+  <content contentuid="hcede6a58g6d8bgb1aeg4284ga7779f771f03" version="1">As the greater deity of darkness, Shar is feared for her power over the night, secrets, and loss. She is locked in eternal conflict with her twin sister Selûne, goddess of the moon.</content>
+  <content contentuid="h210f173ag55e2g89bdgc2e8gf73909697436" version="1">Shar</content>
+  <content contentuid="h8cdaea6cgba34gc9edg76cag58e273c3dd06" version="1">Tempus is the Lord of Battles, overseeing war and its soldiers. He is the embodiment of honourable combat, and condemns needless bloodlust.</content>
+  <content contentuid="hd8e156ffg630cg130fg559dg74486e6459da" version="1">Tempus</content>
+  <content contentuid="hf21d1815g7494g893dg3e36g0c1524509c2f" version="1">The Blind God rules over law and justice, encouraging valiant acts from his followers and relentlessly pursuing oathbreakers. </content>
+  <content contentuid="hca9387d1g946bgf58fg98eagc5a3f600170b" version="1">Tyr</content>
+  <content contentuid="had26f2f0g288bgd210g985eg6b8b36f1d88e" version="1">The Watcher is an eternal sentry among the gods, representing guardians across the planes. After more than a century of fading worship, Helm's power was restored with the Second Sundering.</content>
+  <content contentuid="he2ee6a71gfaccg2948g4452gbea901f93f60" version="1">Helm</content>
+  <content contentuid="he3ccec83g30edgc7fbg1317g32479d1f0fd8" version="1">The Crying God protects the oppressed and persecuted. His clergy is sworn to alleviate suffering, even if that means taking on that pain personally.</content>
+  <content contentuid="h2fd6e91agb21fgec4eg299dg33576eb933fa" version="1">Ilmater</content>
+  <content contentuid="h6558f4d0ga26bg9584g143bg8ad4655cdb78" version="1">As the mother of all magic, Mystra oversees the Weave and spreads arcane knowledge to mortal spellcasters. Her clerics preserve ancient lore and protect bastions of magical energy.</content>
+  <content contentuid="h5051a63fg396cg3c0eg285ag4329f834682d" version="1">Mystra</content>
+  <content contentuid="h3d8a357eg64c2g1f20gb097g5bfe719fd027" version="1">Oghma is the god of inspiration and invention, sharing knowledge with the world through his bards and clerics. Unlike many other deities, Oghma accepts all moral alignments into his clergy.</content>
+  <content contentuid="h876602f9g480cg6c4bg10c7g5f27eef5a771" version="1">Oghma</content>
+  <content contentuid="hbc7e5551gd3cbg5925gd964g9652a540e6d9" version="1">Fair but distant, Kelemvor guides the dead to their appropriate plane in the afterlife. His clergy provides last rites across Faerûn, but also destroy undead that have escaped Kelemvor's judgement.</content>
+  <content contentuid="ha7db1adag7cf6g9147gcfaeg7c1b8e437f5a" version="1">Kelemvor</content>
+  <content contentuid="hb386b2cfg880fg8492geaa1g59d8e0b6a103" version="1">The All-Hammer is a dwarven god worshipped by smiths, artisans, and miners alike. He and Laduguer are constantly at odds.</content>
+  <content contentuid="h79ef6ee8g4c5cg83a0gc9d7gd3e41b48e4bf" version="1">Moradin</content>
+  <content contentuid="h681af0b4g0ffega0bcg07a1g034456151942" version="1">Creator of the elves, Corellon Larethian oversees the elven pantheon as a whole, providing blessings to those who study art, magic, and nature.</content>
+  <content contentuid="h24195122g96bcgc50cgcbe3gc641c6d3a411" version="1">Corellon Larethian</content>
+  <content contentuid="h8ac5bb59g7c1cg5731gc922gf6586acb86d0" version="1">The Watchful Protector is the king of gnomish gods - a deity of humour, gem-cutting, protection, and trickery.</content>
+  <content contentuid="h922314dbg2edag4d56g080egbe0cbb7c5466" version="1">Garl Glittergold</content>
+  <content contentuid="h0e14d1abg8d66g5cacgdceeg51462c47d91a" version="1">As the mother of the halfling pantheon, Yondalla is known for her kindness and open mind, encouraging her followers to protect the home, hearth, and nature.</content>
+  <content contentuid="hcf4aa88ag6d47g48aeg7c98g61f782ca7f5a" version="1">Yondalla</content>
+  <content contentuid="hfb387dd7g1984g4713g1fccg2854c038cb1c" version="1">The much-reviled matriarch of the drow pantheon, Lolth holds sway over spiders, the Underdark, and the wicked creatures of the Demonweb Pits. Her primary goal is to corrupt all drow, transforming them into heartless cultists.</content>
+  <content contentuid="h9b70a5afg24c3gbb99gac5agfefadff6a3ce" version="1">Lolth</content>
+  <content contentuid="h9c0956bfg43d3gc5dag6577gfb66a9251baa" version="1">The Exile is the tyrannical patron of the duergar. His clerics are the unquestioned rulers of duergar society, enforcing cold and callous behaviour among his worshippers.</content>
+  <content contentuid="h613dc1e6ga06cg4369g851cgd21efc4b01a4" version="1">Laduguer</content>
+  <content contentuid="h87548d8cgb864ga34cg591fgbe9e075326ce" version="1">The Lich Queen is the sole respected leader of the githyanki. She encourages their worship and unquestioning devotion, essentially acting as a deity.</content>
+  <content contentuid="hf5b08287ge14cgce37g2ebdgc1acc7789543" version="1">Vlaakith</content>
+  <content contentuid="hde5c3177g8c6ag174ag6c93g3e7abb8226d2" version="1">Eilistraee is the goddess of good-aligned drow, beauty, song, and freedom. The Dark Maiden desires balance between all races, and struggles against her mother Lolth's corrupt aims.</content>
+  <content contentuid="ha518a88dga766g6f41g8768gaaa815b1001a" version="1">Eilistraee</content>
+  <content contentuid="h4a9543feg5d44g9c05g8e13gb7577b662907" version="1">Lathander</content>
+  <content contentuid="h2eb2be2fg4ff2g6cd3ge252g33c85ca41b8c" version="1">The Morninglord is the god of the dawn and spring, of birth and beginnings. He is invoked to christen both new ventures and new life. His followers embrace growth and renewal, and despise the undead.</content>
+  <content contentuid="h3445a502g86e9g3469g9c05g3a070ca49fbd" version="1">Talos</content>
+  <content contentuid="hb54bd86bg4354g0e2eg166dg7a01da5f2778" version="1">Talos represents the uncaring and destructive force of nature. His followers see life as a set of random effects in a sea of chaos, and take what they can - for who can say when Talos will strike next?</content>
+  <content contentuid="h2fd40323g0bbeg659agd24cg5fe626e0ef87" version="1">Tymora</content>
+  <content contentuid="h9ca98e8eg2b5cg8a65g3c7fg326f55c73b5b" version="1">Tymora is the bright-faced goddess of fortune, who favours those who gamble - and set out on adventure - with the utmost skill and daring.</content>
+  <content contentuid="he32b624cg19aeg04e6gcb6agde7f29fba298" version="1">Mielikki</content>
+  <content contentuid="h45c531beg8f08gbfa0g655bge18fbe9a875c" version="1">Mielikki is the goddess of forests and the creatures that live within them. She is a remote and spiritual deity, often spoken of in but the quietest of forests.</content>
+  <content contentuid="h3261b712g3ca0g78aag609cgea8691d887c1" version="1">Bahamut</content>
+  <content contentuid="h4d46e59dg13f4gf1dbg0562g9ab3c16ae188" version="1">The Angel of the Seven Heavens is the dragon god of justice. His ideals of mercy and just authority keep him locked in an inexorable rivalry with his sister, Tiamat. </content>
+  <content contentuid="h3f3efb4dged6dg3f12g59acgbb7265da9beb" version="1">Gruumsh</content>
+  <content contentuid="h22c703e5g276bgda9ag479bg39b9392797e6" version="1">The One-Eye is the orcs' patron deity - a god of war, conquest, and victory at all costs. He has held an ancient and immutable grudge against the elven pantheon since Corellon Larethian took his eye. </content>
+  <content contentuid="hd2607982ge23dg0a82g4483g18daaaaaaec7" version="1">Tiamat</content>
+  <content contentuid="h3d35072cg0e9fg3446ge449g0bb8033898ff" version="1">Tiamat the Many-Mawed is a roiling mass of avarice and hate currently trapped within the Nine Hells. The dragon god of greed eternally plots her escape, as do her many fanatics in world of Toril.</content>
+  <content contentuid="hc026e26dg8e88g4310g90b7g7152cfd0801a" version="2">Dragonborn</content>
+  <content contentuid="hbe0a2bb3g1032g4bf6g8a54g10a6707b0564" version="3">Dream Visitor</content>
+  <content contentuid="h0814e9a2g0f7bg44eag8126g249f4834df25" version="2">Gold Dragonborn Fighter</content>
+  <content contentuid="hd8efdc2fgf326g46d6gb1d9gc46b99b6ce0d" version="2">Dragonborn</content>
+  <content contentuid="ha495b9e2g6d6ag47a9gbebfgb075475747a8" version="3">Dream Visitor</content>
+  <content contentuid="h01528002g1263g4303gb791g15a8c38ec2cc" version="2">Jatlo</content>
+  <content contentuid="h6c383aa3g2d5cg4e34gb1b8gcb267316821a" version="3">Dwarf Citizen</content>
+  <content contentuid="h0916b15cg543cg4405gbb8fgc827bf6e1667" version="3">Civilian</content>
+  <content contentuid="hd6743277gd02dg4d04gb589g57eb7a950bfa" version="3">Duergar Warrior</content>
+  <content contentuid="h3a4fcb65gd6c3g4a23gaa5dg91e0216912e6" version="3">Civilian</content>
+  <content contentuid="had93969fg1828g4182g898ag5d9ab0673cb1" version="3">Dwarf Guard</content>
+  <content contentuid="h6c764b0dg6380g4d61g823ag5ed421dd76b0" version="3">Civilian</content>
+  <content contentuid="hc62e7a40g2109g44a0g8d29g22acf3b074f3" version="4">Fist of Bane</content>
+  <content contentuid="hab220058g522fg44c3g9438ge0a361aa6787" version="3">Duergar Cleric</content>
+  <content contentuid="h38f97922g430ag4b02g8c46g35b55d7d86af" version="3">Thuldor of Laduguer</content>
+  <content contentuid="h45f2c0bdg1b8dg42aag9a35g35e59f54ab03" version="4">Dream Visitor</content>
+  <content contentuid="hbfc372dcg7835g40e9g827bg7cf78dbab31b" version="4">Melee Stone Guard</content>
+  <content contentuid="h228d8ee9g42f6g403dgb230g6e64ff341c74" version="4">Ranged Stone Guard</content>
+  <content contentuid="h110d64c0gf1fbg43a3g8d20g245a68f82d87" version="4">Dream Visitor</content>
+  <content contentuid="h2c8ab755gd599g4f2fg8055gdb643ee41c7c" version="4">Dream Visitor</content>
+  <content contentuid="h5fd9120fg0f16g4bfdga453g622be78539ce" version="5">Eldra Luthrinn</content>
+  <content contentuid="habfaab8fg4dc7g4166g85f4g20094569552f" version="5">Kree Derryck</content>
+  <content contentuid="hf2d37ecbgbb67g4df8gb7bcge970e5ce31e6" version="2">Hope</content>
+  <content contentuid="h23811268g53d6g415bg816dg649b069783c8" version="2">Spirit of the House</content>
+  <content contentuid="h157a289dg8afbg4ed2g974agfc35361b8b43" version="2">Dwarf Citizen</content>
+  <content contentuid="h23dc7109ga6c7g4414ga1f5gb1ebcc6f2eff" version="2">Civilian</content>
+  <content contentuid="h2762bdb2ga82dg4a65gaefcgc9f8fdea22f5" version="2">Civilian</content>
+  <content contentuid="h911a75bcgb86fg4ea1gb960g9fe446f5f7f7" version="2">Dwarf Guard</content>
+  <content contentuid="h5b5e7aaeg0740g4440g9014g699a28cc1a74" version="2">Civilian</content>
+  <content contentuid="h02ec03aagc75ag4ccbg84f7g8f8baf8d35d4" version="2">Black Gauntlet of Bane</content>
+  <content contentuid="hbbc9e314ge367g497ag88bagb59ed65fabe4" version="2">Iron Consul of Bane</content>
+  <content contentuid="hc2d73415g1790g4d75g8b05g62f6f389b751" version="2">Civilian</content>
+  <content contentuid="hc53ab421gfcb5g4f1fg8d96gd57d944a77ed" version="2">Duergar Cleric</content>
+  <content contentuid="h14994375gb22ag4d00g9bdfg1edf886d03e6" version="2">Thuldor of Laduguer</content>
+  <content contentuid="h1e00f63eg6b97g43ceg98fbgacdae3d27935" version="2">Dream Visitor</content>
+  <content contentuid="ha1dec8f7g95deg4d2cg9c17gf48ed4b36d8e" version="2">Melee Stone Guard</content>
+  <content contentuid="hec00437ege7d3g4a04g9d17g0dd1027b8a47" version="2">Ranged Stone Guard</content>
+  <content contentuid="h7cc3de57gb36ag4094g90d3g2cf840b286c3" version="2">Dream Visitor</content>
+  <content contentuid="h1a13846cgfebag423fgb843g207ea46f78aa" version="2">Illusory Double</content>
+  <content contentuid="h93ebce4fg1487g4be0g9a54g20b6be1f8549" version="2">Dream Visitor</content>
+  <content contentuid="hfb57bb30g7d61g9742gb918ge4238a3eebf7" version="1">Acolyte</content>
+  <content contentuid="h62cd1bd9g82b6gfe79gfd6cg3f0b359234b8" version="1">You have spent your life in service to a temple, learning sacred rites and providing sacrifices to the god or gods you worship. Serving the gods and discovering their sacred works will guide you to greatness.</content>
+  <content contentuid="h926dec3egf50ag3859g64ddg290976a5a7d8" version="1">Charlatan</content>
+  <content contentuid="h64d3c95ag1e0egbb83g8dc8g2b3339d627d3" version="1">You're an expert in manipulation, prone to exaggeration and more than happy to profit from it. Bending the truth and turning allies against each other will lead to greater success down the road.</content>
+  <content contentuid="h06cdf484g799bg444bg1cd4gb6520554f6b6" version="1">Criminal</content>
+  <content contentuid="h9dba1987gd755g119ag24dbg7da65f615f9d" version="1">You have a history of breaking the law and survive by leveraging less-than-legal connections. Profiting from criminal enterprise will lead to greater opportunities in the future.</content>
+  <content contentuid="hbcae274ag319egec51gee5dg7888828350c2" version="1">Entertainer</content>
+  <content contentuid="h072b3b50gecafg5686gdb67g631e21738ff4" version="1">You live to sway and subvert your audience, engaging common crowds and high society alike. Preserving art and bringing joy to the hapless and downtrodden heightens your charismatic aura.</content>
+  <content contentuid="h262bb63cg713bgbaa2gb2a1gbcea63bc225e" version="1">Folk Hero</content>
+  <content contentuid="h16282030g486fg561eg372ag65633023df84" version="1">You're a champion of the common people, challenging tyrants and monsters to protect the helpless. Saving innocents in imminent danger will make your legend grow.</content>
+  <content contentuid="hf6007e2bgaceag6ff3g2aa0ga92d0fd807f2" version="1">Guild Artisan</content>
+  <content contentuid="hc3095331g12eegf9a5g8a09g5cc170feccc4" version="1">Your skill in a particular craft has earned you membership in a mercantile guild, offering privileges and protection while engaging in your art. Repairing and discovering rare crafts will bring new inspiration.</content>
+  <content contentuid="haf5c6623gd2eeg6efbgdf1ag0da0e3658f5c" version="1">Noble</content>
+  <content contentuid="h03abc72fg70e3g87edg4bacgf159e556e134" version="1">You were raised in a family among the social elite, accustomed to power and privilege. Accumulating renown, power, and loyalty will raise your status.</content>
+  <content contentuid="h8b147ebbgb05dgf3ceg9f46ga65306debb14" version="1">Outlander</content>
+  <content contentuid="h80bca981gb871gd237gca12g61ba64469219" version="1">You grew up in the wilds, learning to survive far from the comforts of civilisation. Surviving unusual hazards of the wild will enhance your prowess and understanding.</content>
+  <content contentuid="h856bf4a3g74b2ga025ge590gb4c297187b23" version="1">Sage</content>
+  <content contentuid="h3a4d8597g76d8g4d46g14bbgf4c06f92d48c" version="1">You are curious and well-read, with an unending thirst for knowledge. Learning about rare lore of the world will inspire you to put this knowledge to greater purpose.</content>
+  <content contentuid="h22a1e78dg7c44g433bg9cfega38b9147cc34" version="1">Soldier</content>
+  <content contentuid="hc4e4ac1ag26b3ge601g01bdgfc0c4dce2704" version="1">You are trained in battlefield tactics and combat, having served in a militia, mercenary company, or officer corps. Show smart tactics and bravery on the battlefield to enhance your prowess.</content>
+  <content contentuid="h92713899g7855g720cg7948g842e26bfb3f4" version="1">Urchin</content>
+  <content contentuid="h0a823048g4732g3509g7455gaa978299d51c" version="1">After surviving a poor and bleak childhood, you know how to make the most out of very little. Using your street smarts bolsters your spirit for the journey ahead.</content>
+  <content contentuid="hccbacb7agfbc9g49bcgba4cgfe5e26616af5" version="2">Civilian</content>
+  <content contentuid="h801190bdgcab1g4809gbcdfgfab2dffb48bb" version="2">Civilian</content>
+  <content contentuid="h7fd32d0cg75bfg471bg8ac4gf858919b6edd" version="2">Civilian</content>
+  <content contentuid="hfcab35d2g732bg4671gaa73g0e3601bdd5b9" version="2">Civilian</content>
+  <content contentuid="h91651ecdg02e4g49a0gaaeag47d6f71b2ef0" version="2">Dream Visitor</content>
+  <content contentuid="hdc2e22ebg3fe1g4985g8f88gec55fc3aaad5" version="4">Female Drow</content>
+  <content contentuid="h4d590d58g06ddg48e1g886eg5dbdb892f821" version="2">Dream Visitor</content>
+  <content contentuid="h4810f776g1676g4804g9c56g478ab72532d6" version="2">Illusory Double</content>
+  <content contentuid="h6bc1769eg6423g4b35g8dd3g58c41e061cb3" version="2">Dream Visitor</content>
+  <content contentuid="hc338eb32g6155g43c9g90fcg596061ae42c9" version="2">Illusory Double</content>
+  <content contentuid="h0c466dbag72d0g42bcgb978g2c634e1b15f2" version="2">Dream Visitor</content>
+  <content contentuid="hc6661e41gb3d0g43c5g96c0gddd065264817" version="2">Counsellor Florrick</content>
+  <content contentuid="h62d4f5b8g196dg4139gb7a5gc251acae2c39" version="2">Advisor to the Archduke</content>
+  <content contentuid="hbca65adbg5eadg4274gbe4eg551cdc0ff66d" version="2">Sharran Novice</content>
+  <content contentuid="h8020668dg5876g4a84g9614g937bab4af317" version="3">Civilian</content>
+  <content contentuid="h37f943d1g7e3eg44d1gb48cg69d94853c340" version="2">Civilian</content>
+  <content contentuid="h1d5b7a57g4fd6g441dgae4dg45e541332c8c" version="2">Civilian</content>
+  <content contentuid="h684e3a6dga953g4e00g8894g1e9cc0da5492" version="2">Civilian</content>
+  <content contentuid="h1bd90925g0bf0g4da0gade1ga3e2f56955c5" version="2">Dream Visitor</content>
+  <content contentuid="h3ac3b0ebg2803g4a84gae20gec9344063cdb" version="2">Civilian</content>
+  <content contentuid="h7266c36dgc6a8g4983g9d2ege36beb3aba5e" version="2">Drow</content>
+  <content contentuid="h3b1060b8g5f05g4800g81f3g302563727ccd" version="2">Drow</content>
+  <content contentuid="hda99b3c0gb716g4576g982ag6feb113f63c5" version="2">Drow</content>
+  <content contentuid="h5a00d717ge3d8g4d9dga439g3e07527aad1a" version="2">Drow</content>
+  <content contentuid="hea6a7afag9943g4e28ga2c9g391709fd1755" version="2">Drow</content>
+  <content contentuid="hd394246egc6b8g45c4gbae5gd3028d62608d" version="2">Dream Visitor</content>
+  <content contentuid="h3261d28bga702g4b30g9e5egb77519a6e551" version="2">Illusory Double</content>
+  <content contentuid="he347fe91g4eabg45a3g97bfg08c4e8845aa0" version="2">Dream Visitor</content>
+  <content contentuid="hb78d8231g0f4dg478egb0beg1b223727b63f" version="2">Illusory Double</content>
+  <content contentuid="hcd4498eeged10g4820gb514gbb19c28ed41d" version="2">Dream Visitor</content>
+  <content contentuid="h2cf823acgb756g4d4fgad68g1f92613feee3" version="4">Zenitha Feur'sel</content>
+  <content contentuid="hcb209a55gaed5g4ecag8bb3g3010f292be74" version="4">Ver'yll Wenkiir</content>
+  <content contentuid="hd84d7768g34a5g4854gb471gbda76b8f76d5" version="2">Astarion</content>
+  <content contentuid="h818a9906g4edag4ffeg8ab5g314dbaefbaba" version="2">Astarion</content>
+  <content contentuid="h7f836cc7g940eg4a4dgb2d9g803690c35c52" version="2">Civilian</content>
+  <content contentuid="heaa416dcg41a8g4bdbg956eg44b3ccf83bfc" version="2">Civilian</content>
+  <content contentuid="he636d8ffg177fg406bg8daeg6bc4c8b5e5cf" version="3">Dream Visitor</content>
+  <content contentuid="h6ec73614gb9a8g44b6gadfdg838db4841887" version="2">Illusory Double</content>
+  <content contentuid="h23ad983bgfe8ag4570gadf6g514ad99af618" version="6">Sina'zith</content>
+  <content contentuid="h1f5d212fg190fg4bebg8f44g60a648623226" version="3">Dream Visitor</content>
+  <content contentuid="h96264672g8267g4fd7g8b86g3493b0edf24a" version="2">Illusory Double</content>
+  <content contentuid="h534ce5fag221eg4422gab32g99fb8f314e85" version="2">Ptaris' Mental Image</content>
+  <content contentuid="h83708962g69b8g4071g8b38g3bbccdf5b4c4" version="2">Halfling</content>
+  <content contentuid="h7fa26bbcgfc27g49d1g9176g83491cbaf4bf" version="2">Human Female </content>
+  <content contentuid="h5598960bge3c1g48dbgb201g8395bcd66e29" version="2">Tiefling</content>
+  <content contentuid="ha80a62b5g0400g4ff3g936bg2938af50a5bf" version="4">Sir Fuzzalump</content>
+  <content contentuid="h8ac303e3gfce4g48e9g8e13g213a78746295" version="4">Brinna Brightsong</content>
+  <content contentuid="h098ef66eg2ea3g401cg9b50g64171c0fa70c" version="4">Danton</content>
+  <content contentuid="h2a6ce1eegb92bg497bg83e1gfd2a44d43734" version="4">Kerz</content>
+  <content contentuid="h9b82bdedg9500g43b8gb191g4c6e36efb526" version="4">Jacelyn</content>
+  <content contentuid="hc52febeag7095g437bga46dg168394b2de46" version="4">Varanna Sunblossom</content>
+  <content contentuid="h69191a17g5d85g48a1g89a2gf124c20d7edb" version="4">Maddala Deadeye</content>
+  <content contentuid="h29faaaf2g8835g49bcgad62ge1ec94c17509" version="2">Civilian</content>
+  <content contentuid="h83ccfc49g38a0g451eg85e0gb43f9aa4b319" version="2">Civilian</content>
+  <content contentuid="hfb14febfg014eg99e5gb223gad1f8040d84d" version="1">Maddala Deadeye</content>
+  <content contentuid="hb5b7cc92g4900g832eg0271gdac14db3197d" version="1">Maddala's blindness was cured by another True Soul passing through her village - so they could watch it being burnt to the ground around them. Such was the price of refusing the Absolute. </content>
+</contentList>
